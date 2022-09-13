@@ -10,6 +10,7 @@ Liste des agences web et marketing en Martinique (972) disponible dans différen
 - SQL
 
 Concernant le fichier SQL vous trouverez le schéma de la table ici.
+[Créer la table SQL](create-table.sql)
 
 
 # Liste des agences de Martinique
