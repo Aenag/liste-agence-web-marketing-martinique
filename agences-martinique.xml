@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <NOM>&lt;ED/&gt;</NOM>
+    <ADDRESS>Rte de Fond d&apos;Orange</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97224</CPO>
+    <CITY>Ducos </CITY>
+    <PHONE1>0696 94 91 69</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@enjoydigital.fr</EMAIL>
+    <URL>https://www.enjoydigital.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>18.19 Digital</NOM>
+    <ADDRESS>Espace Eureka concept</ADDRESS>
+    <ADRESS2>Quartier Médecin</ADRESS2>
+    <CPO>97215</CPO>
+    <CITY>Rivière-Salée</CITY>
+    <PHONE1>0696 55 37 71</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@1819digital.fr</EMAIL>
+    <URL>https://www.1819digital.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Agence Acoma</NOM>
+    <ADDRESS>122 résidence deslandes</ADDRESS>
+    <ADRESS2>Belle Etoile Nord</ADRESS2>
+    <CPO>97212</CPO>
+    <CITY>Saint-Joseph</CITY>
+    <PHONE1>0696 55 27 16</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@agence-acoma.fr</EMAIL>
+    <URL>https://agence-acoma.fr/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>Agence Cerise</NOM>
+    <ADDRESS>Route de Terreville</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97233</CPO>
+    <CITY>Schoelcher</CITY>
+    <PHONE1>0596 03 97 93</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@agencecerise.com</EMAIL>
+    <URL>https://agencecerise.com/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>Agence Market One</NOM>
+    <ADDRESS>31 rue du Professeur Raymond Garcin</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-France</CITY>
+    <PHONE1>0596 63 12 97</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@agencemarketone.com</EMAIL>
+    <URL>https://agencemarketone.com/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>Agence Tintamarre &amp; Co</NOM>
+    <ADDRESS>1 rue de la Source</ADDRESS>
+    <ADRESS2>Petit-Bourg</ADRESS2>
+    <CPO>97215</CPO>
+    <CITY>Rivière-Salée</CITY>
+    <PHONE1>0696 730 750</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@tintamarreandco.com</EMAIL>
+    <URL>https://www.tintamarreandco.com/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>Altosor Communication Martinique</NOM>
+    <ADDRESS></ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO></CPO>
+    <CITY></CITY>
+    <PHONE1>0596 10 66 20</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@altosor.com</EMAIL>
+    <URL>https://www.altosor-communication.com/martinique/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>BeeCee</NOM>
+    <ADDRESS>ZAC de Génipa</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97224</CPO>
+    <CITY>Ducos</CITY>
+    <PHONE1>0596 39 70 45</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@beecee.fr</EMAIL>
+    <URL>https://www.beecee.fr/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>BPM-AD</NOM>
+    <ADDRESS>12 Rue des Arts et Métiers</ADDRESS>
+    <ADRESS2>Centre d&apos;affaire Bebooster</ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-France</CITY>
+    <PHONE1>0696 98 19 97</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@bpm-ad.fr</EMAIL>
+    <URL>https://www.bpm-ad.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Coclico Media</NOM>
+    <ADDRESS>6 lotissement les Orchidées</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97228</CPO>
+    <CITY>Sainte-Luce</CITY>
+    <PHONE1>0696 97 77 66</PHONE1>
+    <PHONE2>0596 69 45 91</PHONE2>
+    <EMAIL>info@coclicomedia.com</EMAIL>
+    <URL>https://www.coclicomedia.com/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>COM J&apos;M</NOM>
+    <ADDRESS>1 rue des Lataniers</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97224</CPO>
+    <CITY>Ducos</CITY>
+    <PHONE1>0769 65 74 66</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>hello@comjm.fr</EMAIL>
+    <URL>https://comjm.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Comwebsolutions</NOM>
+    <ADDRESS>Roches Carrees</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97232</CPO>
+    <CITY>Le Lamentin</CITY>
+    <PHONE1>0696 28 74 13</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@comwebsolutions.com</EMAIL>
+    <URL>https://comwebsolutions.com/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>DBNG</NOM>
+    <ADDRESS>Sans-pareil</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97215</CPO>
+    <CITY>Rivière-salée</CITY>
+    <PHONE1>0696 92 03 95</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@dbng.fr</EMAIL>
+    <URL>https://dbng.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Del Caribe</NOM>
+    <ADDRESS></ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO></CPO>
+    <CITY></CITY>
+    <PHONE1>0696 33 55 55</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@del-caribe.com</EMAIL>
+    <URL>https://www.del-caribe.com/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Digital Creative Agency</NOM>
+    <ADDRESS>Lotissement Les Aloès</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97223</CPO>
+    <CITY>Le Diamant</CITY>
+    <PHONE1>0696 90 94 09</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@creative-digital-agency.fr</EMAIL>
+    <URL>https://digital-creative-agency.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Digital Freedom Caraïbe</NOM>
+    <ADDRESS>81, rue Lamartine</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-France</CITY>
+    <PHONE1>0596 58 22 98</PHONE1>
+    <PHONE2>0615 50 31 24</PHONE2>
+    <EMAIL>contact@digitalfreedomcaraibe.com</EMAIL>
+    <URL>https://digitalfreedomcaraibe.com/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Digital Xpress</NOM>
+    <ADDRESS>ZAC Étang Z’Abricot</ADDRESS>
+    <ADRESS2>Résidence Camarine Bat Argo</ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-France</CITY>
+    <PHONE1>0596 35 17 86</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>bonjour@digitalxpress.fr</EMAIL>
+    <URL>https://digitalxpress.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Digitom</NOM>
+    <ADDRESS>22 Immeuble LAOUCHEZ - Bld Nelson MANDELA</ADDRESS>
+    <ADRESS2>C2i Martinique</ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-France</CITY>
+    <PHONE1>0590 999 930</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL>https://www.digitom.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>havas c&apos;direct</NOM>
+    <ADDRESS>Immeuble Frégate</ADDRESS>
+    <ADRESS2>ZI Manhity</ADRESS2>
+    <CPO>97232</CPO>
+    <CITY>Le Lamentin</CITY>
+    <PHONE1>0596 50 85 60</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL>https://havascdirect.com/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>Island Network</NOM>
+    <ADDRESS>29 rue de la Ferme</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-France</CITY>
+    <PHONE1>0783 06 50 96</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>info@islandnetwork.fr</EMAIL>
+    <URL>https://islandnetwork.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Kaza Communication</NOM>
+    <ADDRESS>11 rue Révérend Père Pinchon  </ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-France</CITY>
+    <PHONE1>0596 50 75 56</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>info@kazacommunication.com</EMAIL>
+    <URL>https://www.kazacommunication.com/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>La Cellule Digitale</NOM>
+    <ADDRESS>Immeuble Frégate</ADDRESS>
+    <ADRESS2>ZI Manhity</ADRESS2>
+    <CPO>97232</CPO>
+    <CITY>Le Lamentin</CITY>
+    <PHONE1>0596 50 85 60</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>pgirondin@publidom.com</EMAIL>
+    <URL>https://lacelluledigitale.com/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>LFProd </NOM>
+    <ADDRESS>Rue de l&apos;Alize</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97230</CPO>
+    <CITY>Sainte-Marie</CITY>
+    <PHONE1>0696 43 53 96</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL></URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Made In Dom</NOM>
+    <ADDRESS>Les Sommets de Terreville</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97233</CPO>
+    <CITY>Schoelcher</CITY>
+    <PHONE1>0696 01 42 43</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL>https://madeindom.com/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>MadinCloud</NOM>
+    <ADDRESS>BP 66 Centre Courrier</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97230</CPO>
+    <CITY>Sainte Marie</CITY>
+    <PHONE1>0596 48 79 20</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>info@madincloud.fr</EMAIL>
+    <URL>https://madincloud.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Milcom</NOM>
+    <ADDRESS>78 Tivoli Morne-Laurent</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-France</CITY>
+    <PHONE1>0696 23 67 31</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL>https://milcom.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>MVMJ</NOM>
+    <ADDRESS>1er étage, Terminal Inter-Îles, Bassin de Radoub</ADDRESS>
+    <ADRESS2>Gare maritime du Grand Port de la Martinique</ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-France</CITY>
+    <PHONE1>0749 00 51 90</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@mvmj.fr</EMAIL>
+    <URL>https://mvmj.fr/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>NASDY </NOM>
+    <ADDRESS>1 route de la folie</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-France</CITY>
+    <PHONE1>0696 71 01 90</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@nasdy.com</EMAIL>
+    <URL>https://www.nasdy.agency/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Pil Media</NOM>
+    <ADDRESS>46 centre cial Place d&apos;Armes</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97232</CPO>
+    <CITY>Le Lamentin</CITY>
+    <PHONE1>0596 37 51 85</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@pil-media.com</EMAIL>
+    <URL>https://www.pil-media.com/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Pixell Digital Agency</NOM>
+    <ADDRESS>ZIP Pointes des Grives</ADDRESS>
+    <ADRESS2>Batiment Frigodom</ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-France</CITY>
+    <PHONE1>0596 75 14 20</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@pixell.eu</EMAIL>
+    <URL>https://www.pixell.eu/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Smart Agency &amp; CO</NOM>
+    <ADDRESS>7 Av. George Pompidou</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>94370</CPO>
+    <CITY>Sucy-en-Brie</CITY>
+    <PHONE1></PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@smart-agency.fr</EMAIL>
+    <URL>https://smart-agency.fr/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>SolAppli</NOM>
+    <ADDRESS>Quartier Gondeau</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97232</CPO>
+    <CITY>Le Lamentin</CITY>
+    <PHONE1>0696 31 30 29</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@solappli.com</EMAIL>
+    <URL>https://solappli.com/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Virginis Technologies</NOM>
+    <ADDRESS>62 route de Moutte</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-France</CITY>
+    <PHONE1>0972 10 09 99</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>commercial@virginis.tech</EMAIL>
+    <URL>https://www.virginis.tech/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Web2Web</NOM>
+    <ADDRESS></ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-France</CITY>
+    <PHONE1>06 90 84 95 98</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>martinique@web2web.fr</EMAIL>
+    <URL>https://web2web.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Webcharte</NOM>
+    <ADDRESS>1 rue Pierre Louis Hervé</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97229</CPO>
+    <CITY>Les Trois-Ilets</CITY>
+    <PHONE1>0696 11 17 59</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>hello@webcharte.com</EMAIL>
+    <URL>https://www.webcharte.com/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Webchuchote EURL</NOM>
+    <ADDRESS>147 Bourg Nord du Precheur</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97250</CPO>
+    <CITY>Le Prêcheur</CITY>
+    <PHONE1>0696 24 31 26</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL>https://www.webchuchote.com/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Webplus Multimédia</NOM>
+    <ADDRESS></ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-france</CITY>
+    <PHONE1>0696 32 64 63</PHONE1>
+    <PHONE2>0974 53 37 24 </PHONE2>
+    <EMAIL>contact@webplusm.net</EMAIL>
+    <URL>https://www.webplusm.net/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Whaaat </NOM>
+    <ADDRESS>Route de la jambette</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-France</CITY>
+    <PHONE1>0696 34 37 71</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>hello@whaaat.studio</EMAIL>
+    <URL>https://whaaat.studio/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>Wiwaks</NOM>
+    <ADDRESS>Quartier Morne Carette</ADDRESS>
+    <ADRESS2>Allée du Jasmin</ADRESS2>
+    <CPO>97224</CPO>
+    <CITY>Ducos</CITY>
+    <PHONE1>0696 11 17 31</PHONE1>
+    <PHONE2>0696 81 07 16</PHONE2>
+    <EMAIL>contact@wiwaks.com</EMAIL>
+    <URL>https://www.wiwax.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>WMS Production</NOM>
+    <ADDRESS>Epinay Bas</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97228</CPO>
+    <CITY>Sainte Luce</CITY>
+    <PHONE1>0696 40 14 05</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@wmsproduction.eu</EMAIL>
+    <URL>https://www.wmsproduction.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>WSI (We Simplify Internet)</NOM>
+    <ADDRESS>11 rue des Arts et Métiers</ADDRESS>
+    <ADRESS2>Dillon Stade</ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-France</CITY>
+    <PHONE1>0696 29 40 58</PHONE1>
+    <PHONE2>0696 45 49 30</PHONE2>
+    <EMAIL>contact@wsidom.fr</EMAIL>
+    <URL>https://www.wsidom.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Xperience Web</NOM>
+    <ADDRESS>12 rue des Arts &amp; Métiers</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-France</CITY>
+    <PHONE1>0696 82 90 07</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>support@xperienceweb.fr</EMAIL>
+    <URL>https://www.xperienceweb.fr/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+</root>
