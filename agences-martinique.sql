@@ -12,7 +12,7 @@ CREATE TABLE IF NOT EXISTS `t_agency` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 INSERT INTO `t_agency` (`name`, `address1`, `address2`, `cpo`, `city`, `phone1`, `phone2`, `email`, `url`, `type`) VALUES
-('<ED/>', 'Rte de Fond d''Orange', '', '97224', 'Ducos ', '0696 94 91 69', '', 'contact@enjoydigital.fr', 'https://www.enjoydigital.fr/', 'Web'),
+('ED', 'Rte de Fond d''Orange', '', '97224', 'Ducos ', '0696 94 91 69', '', 'contact@enjoydigital.fr', 'https://www.enjoydigital.fr/', 'Web'),
 ('18.19 Digital', 'Espace Eureka concept', 'Quartier Médecin', '97215', 'Rivière-Salée', '0696 55 37 71', '', 'contact@1819digital.fr', 'https://www.1819digital.fr/', 'Web'),
 ('Agence Acoma', '122 résidence deslandes', 'Belle Etoile Nord', '97212', 'Saint-Joseph', '0696 55 27 16', '', 'contact@agence-acoma.fr', 'https://agence-acoma.fr/', 'Marketing'),
 ('Agence Cerise', 'Route de Terreville', '', '97233', 'Schoelcher', '0596 03 97 93', '', 'contact@agencecerise.com', 'https://agencecerise.com/', 'Marketing'),
