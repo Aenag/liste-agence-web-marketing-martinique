@@ -11,6 +11,6 @@ Liste des agences web et marketing en Martinique (972) disponible dans différen
 
 Concernant le fichier SQL vous trouverez le schéma de la table ici.
 
+
 # Liste des agences de Martinique
-<img src="https://raw.githubusercontent.com/WebmonsterA/Piment-Css/main/public/assets/img/logo-pimentcss.svg" alt="" width="200">
 Thanks to : WestInDev, Ronny, Christelle, Eric, R3tr0_, SignedA, Kenjisupremacy, Chriss, SoniaV, webplusm, Jeed0, Kisaman_Steeven, FabienF, FVR71F, Nautilias and all Webmonster Community
