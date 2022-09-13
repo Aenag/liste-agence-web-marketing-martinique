@@ -19,3 +19,7 @@ Concernant le fichier SQL vous trouverez le script de création de la table SQL 
 
 # Liste des agences de Martinique
 Thanks to : WestInDev, Ronny, Christelle, Eric, R3tr0_, SignedA, Kenjisupremacy, Chriss, SoniaV, webplusm, Jeed0, Kisaman_Steeven, FabienF, FVR71F, Nautilias and all Webmonster Community
+
+![img](https://jobboard.webmonster.tech/assets/images/webmonster/logo-dark.png)
+
+Visiter la communauté [Webmonster](https://discord.gg/XU4g5WfH4R) sur Discord.
