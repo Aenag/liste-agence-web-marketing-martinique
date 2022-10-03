@@ -1,6 +1,18 @@
 [
   {
-    "NOM": "&lt;ED/&gt;",
+    "NOM": "2gether Martinique",
+    "ADDRESS": "22 Rue Edgard Labourg",
+    "ADRESS2": "",
+    "CPO": 97231,
+    "CITY": "Le Robert",
+    "PHONE1": "0696 40 85 56",
+    "PHONE2": "",
+    "EMAIL": "2gether.martinique@gmail.com",
+    "URL": "https://www.2gether-martinique.com/",
+    "TYPE": "Marketing"
+  },
+  {
+    "NOM": "<ED/>",
     "ADDRESS": "Rte de Fond d'Orange",
     "ADRESS2": "",
     "CPO": 97224,
@@ -384,6 +396,18 @@
     "TYPE": "Web"
   },
   {
+    "NOM": "Solune Concept",
+    "ADDRESS": "4 Résidence les Cottages",
+    "ADRESS2": "",
+    "CPO": 97228,
+    "CITY": "Sainte-Luce",
+    "PHONE1": "0696 52 58 02",
+    "PHONE2": "",
+    "EMAIL": "contact@soluneconcept.fr",
+    "URL": "https://www.soluneconcept.fr/",
+    "TYPE": "Web"
+  },
+  {
     "NOM": "Virginis Technologies",
     "ADDRESS": "62 route de Moutte",
     "ADRESS2": "",
@@ -502,5 +526,17 @@
     "EMAIL": "support@xperienceweb.fr",
     "URL": "https://www.xperienceweb.fr/",
     "TYPE": "Web"
+  },
+  {
+    "NOM": "Power Digital Media",
+    "ADDRESS": "35 Rrue Gaston DEFERRE",
+    "ADRESS2": "",
+    "CPO": 97200,
+    "CITY": "Fort-de-France",
+    "PHONE1": "0696 53 24 91",
+    "PHONE2": "",
+    "EMAIL": "zhourlazragu@powerdigitalmedia.fr",
+    "URL": "https://powerdigitalmedia.fr/",
+    "TYPE": "Marketing"
   }
 ]

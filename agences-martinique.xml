@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <root>
   <row>
+    <NOM>2gether Martinique</NOM>
+    <ADDRESS>22 Rue Edgard Labourg</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97231</CPO>
+    <CITY>Le Robert</CITY>
+    <PHONE1>0696 40 85 56</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>2gether.martinique@gmail.com</EMAIL>
+    <URL>https://www.2gether-martinique.com/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
     <NOM>&lt;ED/&gt;</NOM>
-    <ADDRESS>Rte de Fond d&apos;Orange</ADDRESS>
+    <ADDRESS>Rte de Fond d&#x27;Orange</ADDRESS>
     <ADRESS2></ADRESS2>
     <CPO>97224</CPO>
-    <CITY>Ducos </CITY>
+    <CITY>Ducos</CITY>
     <PHONE1>0696 94 91 69</PHONE1>
     <PHONE2></PHONE2>
     <EMAIL>contact@enjoydigital.fr</EMAIL>
@@ -99,7 +111,7 @@
   <row>
     <NOM>BPM-AD</NOM>
     <ADDRESS>12 Rue des Arts et Métiers</ADDRESS>
-    <ADRESS2>Centre d&apos;affaire Bebooster</ADRESS2>
+    <ADRESS2>Centre d&#x27;affaire Bebooster</ADRESS2>
     <CPO>97200</CPO>
     <CITY>Fort-de-France</CITY>
     <PHONE1>0696 98 19 97</PHONE1>
@@ -121,7 +133,7 @@
     <TYPE>Web</TYPE>
   </row>
   <row>
-    <NOM>COM J&apos;M</NOM>
+    <NOM>COM J&#x27;M</NOM>
     <ADDRESS>1 rue des Lataniers</ADDRESS>
     <ADRESS2></ADRESS2>
     <CPO>97224</CPO>
@@ -217,7 +229,7 @@
     <TYPE>Web</TYPE>
   </row>
   <row>
-    <NOM>havas c&apos;direct</NOM>
+    <NOM>havas c&#x27;direct</NOM>
     <ADDRESS>Immeuble Frégate</ADDRESS>
     <ADRESS2>ZI Manhity</ADRESS2>
     <CPO>97232</CPO>
@@ -242,7 +254,7 @@
   </row>
   <row>
     <NOM>Kaza Communication</NOM>
-    <ADDRESS>11 rue Révérend Père Pinchon  </ADDRESS>
+    <ADDRESS>11 rue Révérend Père Pinchon</ADDRESS>
     <ADRESS2></ADRESS2>
     <CPO>97200</CPO>
     <CITY>Fort-de-France</CITY>
@@ -265,8 +277,8 @@
     <TYPE>Web</TYPE>
   </row>
   <row>
-    <NOM>LFProd </NOM>
-    <ADDRESS>Rue de l&apos;Alize</ADDRESS>
+    <NOM>LFProd</NOM>
+    <ADDRESS>Rue de l&#x27;Alize</ADDRESS>
     <ADRESS2></ADRESS2>
     <CPO>97230</CPO>
     <CITY>Sainte-Marie</CITY>
@@ -325,7 +337,7 @@
     <TYPE>Marketing</TYPE>
   </row>
   <row>
-    <NOM>NASDY </NOM>
+    <NOM>NASDY</NOM>
     <ADDRESS>1 route de la folie</ADDRESS>
     <ADRESS2></ADRESS2>
     <CPO>97200</CPO>
@@ -338,7 +350,7 @@
   </row>
   <row>
     <NOM>Pil Media</NOM>
-    <ADDRESS>46 centre cial Place d&apos;Armes</ADDRESS>
+    <ADDRESS>46 centre cial Place d&#x27;Armes</ADDRESS>
     <ADRESS2></ADRESS2>
     <CPO>97232</CPO>
     <CITY>Le Lamentin</CITY>
@@ -382,6 +394,18 @@
     <PHONE2></PHONE2>
     <EMAIL>contact@solappli.com</EMAIL>
     <URL>https://solappli.com/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Solune Concept</NOM>
+    <ADDRESS>4 Résidence les Cottages</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97228</CPO>
+    <CITY>Sainte-Luce</CITY>
+    <PHONE1>0696 52 58 02</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@soluneconcept.fr</EMAIL>
+    <URL>https://www.soluneconcept.fr/</URL>
     <TYPE>Web</TYPE>
   </row>
   <row>
@@ -439,13 +463,13 @@
     <CPO>97200</CPO>
     <CITY>Fort-de-france</CITY>
     <PHONE1>0696 32 64 63</PHONE1>
-    <PHONE2>0974 53 37 24 </PHONE2>
+    <PHONE2>0974 53 37 24</PHONE2>
     <EMAIL>contact@webplusm.net</EMAIL>
     <URL>https://www.webplusm.net/</URL>
     <TYPE>Web</TYPE>
   </row>
   <row>
-    <NOM>Whaaat </NOM>
+    <NOM>Whaaat</NOM>
     <ADDRESS>Route de la jambette</ADDRESS>
     <ADRESS2></ADRESS2>
     <CPO>97200</CPO>
@@ -503,5 +527,17 @@
     <EMAIL>support@xperienceweb.fr</EMAIL>
     <URL>https://www.xperienceweb.fr/</URL>
     <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Power Digital Media</NOM>
+    <ADDRESS>35 Rrue Gaston DEFERRE</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-France</CITY>
+    <PHONE1>0696 53 24 91</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>zhourlazragu@powerdigitalmedia.fr</EMAIL>
+    <URL>https://powerdigitalmedia.fr/</URL>
+    <TYPE>Marketing</TYPE>
   </row>
 </root>

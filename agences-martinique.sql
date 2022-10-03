@@ -1,56 +1,57 @@
-CREATE TABLE IF NOT EXISTS `t_agency` (
-  `name` varchar(55) NOT NULL,
-  `address1` varchar(100) DEFAULT NULL,
-  `address2` varchar(100) DEFAULT NULL,
-  `cpo` char(5) DEFAULT NULL,
-  `city` varchar(50) DEFAULT NULL,
-  `phone1` varchar(15) DEFAULT NULL,
-  `phone2` varchar(15) DEFAULT NULL,
-  `email` varchar(255) NOT NULL,
-  `url` varchar(155) NOT NULL,
-  `type` enum('Web','Marketing') NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-
-INSERT INTO `t_agency` (`name`, `address1`, `address2`, `cpo`, `city`, `phone1`, `phone2`, `email`, `url`, `type`) VALUES
-('ED', 'Rte de Fond d''Orange', '', '97224', 'Ducos ', '0696 94 91 69', '', 'contact@enjoydigital.fr', 'https://www.enjoydigital.fr/', 'Web'),
-('18.19 Digital', 'Espace Eureka concept', 'Quartier Médecin', '97215', 'Rivière-Salée', '0696 55 37 71', '', 'contact@1819digital.fr', 'https://www.1819digital.fr/', 'Web'),
-('Agence Acoma', '122 résidence deslandes', 'Belle Etoile Nord', '97212', 'Saint-Joseph', '0696 55 27 16', '', 'contact@agence-acoma.fr', 'https://agence-acoma.fr/', 'Marketing'),
-('Agence Cerise', 'Route de Terreville', '', '97233', 'Schoelcher', '0596 03 97 93', '', 'contact@agencecerise.com', 'https://agencecerise.com/', 'Marketing'),
-('Agence Market One', '31 rue du Professeur Raymond Garcin', '', '97200', 'Fort-de-France', '0596 63 12 97', '', 'contact@agencemarketone.com', 'https://agencemarketone.com/', 'Marketing'),
-('Agence Tintamarre & Co', '1 rue de la Source', 'Petit-Bourg', '97215', 'Rivière-Salée', '0696 730 750', '', 'contact@tintamarreandco.com', 'https://www.tintamarreandco.com/', 'Marketing'),
-('Altosor Communication Martinique', '', '', '', '', '0596 10 66 20', '', 'contact@altosor.com', 'https://www.altosor-communication.com/martinique/', 'Marketing'),
-('BeeCee', 'ZAC de Génipa', '', '97224', 'Ducos', '0596 39 70 45', '', 'contact@beecee.fr', 'https://www.beecee.fr/', 'Marketing'),
-('BPM-AD', '12 Rue des Arts et Métiers', 'Centre d''affaire Bebooster', '97200', 'Fort-de-France', '0696 98 19 97', '', 'contact@bpm-ad.fr', 'https://www.bpm-ad.fr/', 'Web'),
-('Coclico Media', '6 lotissement les Orchidées', '', '97228', 'Sainte-Luce', '0696 97 77 66', '0596 69 45 91', 'info@coclicomedia.com', 'https://www.coclicomedia.com/', 'Web'),
-('COM J''M', '1 rue des Lataniers', '', '97224', 'Ducos', '0769 65 74 66', '', 'hello@comjm.fr', 'https://comjm.fr/', 'Web'),
-('Comwebsolutions', 'Roches Carrees', '', '97232', 'Le Lamentin', '0696 28 74 13', '', 'contact@comwebsolutions.com', 'https://comwebsolutions.com/', 'Web'),
-('DBNG', 'Sans-pareil', '', '97215', 'Rivière-salée', '0696 92 03 95', '', 'contact@dbng.fr', 'https://dbng.fr/', 'Web'),
-('Del Caribe', '', '', '', '', '0696 33 55 55', '', 'contact@del-caribe.com', 'https://www.del-caribe.com/', 'Web'),
-('Digital Creative Agency', 'Lotissement Les Aloès', '', '97223', 'Le Diamant', '0696 90 94 09', '', 'contact@creative-digital-agency.fr', 'https://digital-creative-agency.fr/', 'Web'),
-('Digital Freedom Caraïbe', '81, rue Lamartine', '', '97200', 'Fort-de-France', '0596 58 22 98', '0615 50 31 24', 'contact@digitalfreedomcaraibe.com', 'https://digitalfreedomcaraibe.com/', 'Web'),
-('Digital Xpress', 'ZAC Étang Z’Abricot', 'Résidence Camarine Bat Argo', '97200', 'Fort-de-France', '0596 35 17 86', '', 'bonjour@digitalxpress.fr', 'https://digitalxpress.fr/', 'Web'),
-('Digitom', '22 Immeuble LAOUCHEZ - Bld Nelson MANDELA', 'C2i Martinique', '97200', 'Fort-de-France', '0590 999 930', '', '', 'https://www.digitom.fr/', 'Web'),
-('havas c''direct', 'Immeuble Frégate', 'ZI Manhity', '97232', 'Le Lamentin', '0596 50 85 60', '', '', 'https://havascdirect.com/', 'Marketing'),
-('Island Network', '29 rue de la Ferme', '', '97200', 'Fort-de-France', '0783 06 50 96', '', 'info@islandnetwork.fr', 'https://islandnetwork.fr/', 'Web'),
-('Kaza Communication', '11 rue Révérend Père Pinchon  ', '', '97200', 'Fort-de-France', '0596 50 75 56', '', 'info@kazacommunication.com', 'https://www.kazacommunication.com/', 'Web'),
-('La Cellule Digitale', 'Immeuble Frégate', 'ZI Manhity', '97232', 'Le Lamentin', '0596 50 85 60', '', 'pgirondin@publidom.com', 'https://lacelluledigitale.com/', 'Web'),
-('LFProd ', 'Rue de l''Alize', '', '97230', 'Sainte-Marie', '0696 43 53 96', '', '', '', 'Web'),
-('Made In Dom', 'Les Sommets de Terreville', '', '97233', 'Schoelcher', '0696 01 42 43', '', '', 'https://madeindom.com/', 'Web'),
-('MadinCloud', 'BP 66 Centre Courrier', '', '97230', 'Sainte Marie', '0596 48 79 20', '', 'info@madincloud.fr', 'https://madincloud.fr/', 'Web'),
-('Milcom', '78 Tivoli Morne-Laurent', '', '97200', 'Fort-de-France', '0696 23 67 31', '', '', 'https://milcom.fr/', 'Web'),
-('MVMJ', '1er étage, Terminal Inter-Îles, Bassin de Radoub', 'Gare maritime du Grand Port de la Martinique', '97200', 'Fort-de-France', '0749 00 51 90', '', 'contact@mvmj.fr', 'https://mvmj.fr/', 'Marketing'),
-('NASDY ', '1 route de la folie', '', '97200', 'Fort-de-France', '0696 71 01 90', '', 'contact@nasdy.com', 'https://www.nasdy.agency/', 'Web'),
-('Pil Media', '46 centre cial Place d''Armes', '', '97232', 'Le Lamentin', '0596 37 51 85', '', 'contact@pil-media.com', 'https://www.pil-media.com/', 'Web'),
-('Pixell Digital Agency', 'ZIP Pointes des Grives', 'Batiment Frigodom', '97200', 'Fort-de-France', '0596 75 14 20', '', 'contact@pixell.eu', 'https://www.pixell.eu/', 'Web'),
-('Smart Agency & CO', '7 Av. George Pompidou', '', '94370', 'Sucy-en-Brie', '', '', 'contact@smart-agency.fr', 'https://smart-agency.fr/', 'Marketing'),
-('SolAppli', 'Quartier Gondeau', '', '97232', 'Le Lamentin', '0696 31 30 29', '', 'contact@solappli.com', 'https://solappli.com/', 'Web'),
-('Virginis Technologies', '62 route de Moutte', '', '97200', 'Fort-de-France', '0972 10 09 99', '', 'commercial@virginis.tech', 'https://www.virginis.tech/', 'Web'),
-('Web2Web', '', '', '97200', 'Fort-de-France', '06 90 84 95 98', '', 'martinique@web2web.fr', 'https://web2web.fr/', 'Web'),
-('Webcharte', '1 rue Pierre Louis Hervé', '', '97229', 'Les Trois-Ilets', '0696 11 17 59', '', 'hello@webcharte.com', 'https://www.webcharte.com/', 'Web'),
-('Webchuchote EURL', '147 Bourg Nord du Precheur', '', '97250', 'Le Prêcheur', '0696 24 31 26', '', '', 'https://www.webchuchote.com/', 'Web'),
-('Webplus Multimédia', '', '', '97200', 'Fort-de-france', '0696 32 64 63', '0974 53 37 24 ', 'contact@webplusm.net', 'https://www.webplusm.net/', 'Web'),
-('Whaaat ', 'Route de la jambette', '', '97200', 'Fort-de-France', '0696 34 37 71', '', 'hello@whaaat.studio', 'https://whaaat.studio/', 'Marketing'),
-('Wiwaks', 'Quartier Morne Carette', 'Allée du Jasmin', '97224', 'Ducos', '0696 11 17 31', '0696 81 07 16', 'contact@wiwaks.com', 'https://www.wiwax.fr/', 'Web'),
-('WMS Production', 'Epinay Bas', '', '97228', 'Sainte Luce', '0696 40 14 05', '', 'contact@wmsproduction.eu', 'https://www.wmsproduction.fr/', 'Web'),
-('WSI (We Simplify Internet)', '11 rue des Arts et Métiers', 'Dillon Stade', '97200', 'Fort-de-France', '0696 29 40 58', '0696 45 49 30', 'contact@wsidom.fr', 'https://www.wsidom.fr/', 'Web'),
-('Xperience Web', '12 rue des Arts & Métiers', '', '97200', 'Fort-de-France', '0696 82 90 07', '', 'support@xperienceweb.fr', 'https://www.xperienceweb.fr/', 'Web');
+CREATE TABLE agences-martinique(
+   NOM     VARCHAR(32) NOT NULL PRIMARY KEY
+  ,ADDRESS VARCHAR(48)
+  ,ADRESS2 VARCHAR(44)
+  ,CPO     INTEGER 
+  ,CITY    VARCHAR(15)
+  ,PHONE1  VARCHAR(14)
+  ,PHONE2  VARCHAR(13)
+  ,EMAIL   VARCHAR(34)
+  ,URL     VARCHAR(49)
+  ,TYPE    VARCHAR(9) NOT NULL
+);
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('2gether Martinique','22 Rue Edgard Labourg',NULL,97231,'Le Robert','0696 40 85 56',NULL,'2gether.martinique@gmail.com','https://www.2gether-martinique.com/','Marketing');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('<ED/>','Rte de Fond d''Orange',NULL,97224,'Ducos','0696 94 91 69',NULL,'contact@enjoydigital.fr','https://www.enjoydigital.fr/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('18.19 Digital','Espace Eureka concept','Quartier Médecin',97215,'Rivière-Salée','0696 55 37 71',NULL,'contact@1819digital.fr','https://www.1819digital.fr/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Agence Acoma','122 résidence deslandes','Belle Etoile Nord',97212,'Saint-Joseph','0696 55 27 16',NULL,'contact@agence-acoma.fr','https://agence-acoma.fr/','Marketing');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Agence Cerise','Route de Terreville',NULL,97233,'Schoelcher','0596 03 97 93',NULL,'contact@agencecerise.com','https://agencecerise.com/','Marketing');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Agence Market One','31 rue du Professeur Raymond Garcin',NULL,97200,'Fort-de-France','0596 63 12 97',NULL,'contact@agencemarketone.com','https://agencemarketone.com/','Marketing');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Agence Tintamarre & Co','1 rue de la Source','Petit-Bourg',97215,'Rivière-Salée','0696 730 750',NULL,'contact@tintamarreandco.com','https://www.tintamarreandco.com/','Marketing');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Altosor Communication Martinique',NULL,NULL,NULL,NULL,'0596 10 66 20',NULL,'contact@altosor.com','https://www.altosor-communication.com/martinique/','Marketing');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('BeeCee','ZAC de Génipa',NULL,97224,'Ducos','0596 39 70 45',NULL,'contact@beecee.fr','https://www.beecee.fr/','Marketing');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('BPM-AD','12 Rue des Arts et Métiers','Centre d''affaire Bebooster',97200,'Fort-de-France','0696 98 19 97',NULL,'contact@bpm-ad.fr','https://www.bpm-ad.fr/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Coclico Media','6 lotissement les Orchidées',NULL,97228,'Sainte-Luce','0696 97 77 66','0596 69 45 91','info@coclicomedia.com','https://www.coclicomedia.com/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('COM J''M','1 rue des Lataniers',NULL,97224,'Ducos','0769 65 74 66',NULL,'hello@comjm.fr','https://comjm.fr/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Comwebsolutions','Roches Carrees',NULL,97232,'Le Lamentin','0696 28 74 13',NULL,'contact@comwebsolutions.com','https://comwebsolutions.com/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('DBNG','Sans-pareil',NULL,97215,'Rivière-salée','0696 92 03 95',NULL,'contact@dbng.fr','https://dbng.fr/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Del Caribe',NULL,NULL,NULL,NULL,'0696 33 55 55',NULL,'contact@del-caribe.com','https://www.del-caribe.com/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Digital Creative Agency','Lotissement Les Aloès',NULL,97223,'Le Diamant','0696 90 94 09',NULL,'contact@creative-digital-agency.fr','https://digital-creative-agency.fr/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Digital Freedom Caraïbe','81, rue Lamartine',NULL,97200,'Fort-de-France','0596 58 22 98','0615 50 31 24','contact@digitalfreedomcaraibe.com','https://digitalfreedomcaraibe.com/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Digital Xpress','ZAC Étang Z’Abricot','Résidence Camarine Bat Argo',97200,'Fort-de-France','0596 35 17 86',NULL,'bonjour@digitalxpress.fr','https://digitalxpress.fr/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Digitom','22 Immeuble LAOUCHEZ - Bld Nelson MANDELA','C2i Martinique',97200,'Fort-de-France','0590 999 930',NULL,NULL,'https://www.digitom.fr/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('havas c''direct','Immeuble Frégate','ZI Manhity',97232,'Le Lamentin','0596 50 85 60',NULL,NULL,'https://havascdirect.com/','Marketing');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Island Network','29 rue de la Ferme',NULL,97200,'Fort-de-France','0783 06 50 96',NULL,'info@islandnetwork.fr','https://islandnetwork.fr/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Kaza Communication','11 rue Révérend Père Pinchon',NULL,97200,'Fort-de-France','0596 50 75 56',NULL,'info@kazacommunication.com','https://www.kazacommunication.com/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('La Cellule Digitale','Immeuble Frégate','ZI Manhity',97232,'Le Lamentin','0596 50 85 60',NULL,'pgirondin@publidom.com','https://lacelluledigitale.com/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('LFProd','Rue de l''Alize',NULL,97230,'Sainte-Marie','0696 43 53 96',NULL,NULL,NULL,'Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Made In Dom','Les Sommets de Terreville',NULL,97233,'Schoelcher','0696 01 42 43',NULL,NULL,'https://madeindom.com/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('MadinCloud','BP 66 Centre Courrier',NULL,97230,'Sainte Marie','0596 48 79 20',NULL,'info@madincloud.fr','https://madincloud.fr/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Milcom','78 Tivoli Morne-Laurent',NULL,97200,'Fort-de-France','0696 23 67 31',NULL,NULL,'https://milcom.fr/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('MVMJ','1er étage, Terminal Inter-Îles, Bassin de Radoub','Gare maritime du Grand Port de la Martinique',97200,'Fort-de-France','0749 00 51 90',NULL,'contact@mvmj.fr','https://mvmj.fr/','Marketing');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('NASDY','1 route de la folie',NULL,97200,'Fort-de-France','0696 71 01 90',NULL,'contact@nasdy.com','https://www.nasdy.agency/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Pil Media','46 centre cial Place d''Armes',NULL,97232,'Le Lamentin','0596 37 51 85',NULL,'contact@pil-media.com','https://www.pil-media.com/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Pixell Digital Agency','ZIP Pointes des Grives','Batiment Frigodom',97200,'Fort-de-France','0596 75 14 20',NULL,'contact@pixell.eu','https://www.pixell.eu/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Smart Agency & CO','7 Av. George Pompidou',NULL,94370,'Sucy-en-Brie',NULL,NULL,'contact@smart-agency.fr','https://smart-agency.fr/','Marketing');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('SolAppli','Quartier Gondeau',NULL,97232,'Le Lamentin','0696 31 30 29',NULL,'contact@solappli.com','https://solappli.com/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Solune Concept','4 Résidence les Cottages',NULL,97228,'Sainte-Luce','0696 52 58 02',NULL,'contact@soluneconcept.fr','https://www.soluneconcept.fr/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Virginis Technologies','62 route de Moutte',NULL,97200,'Fort-de-France','0972 10 09 99',NULL,'commercial@virginis.tech','https://www.virginis.tech/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Web2Web',NULL,NULL,97200,'Fort-de-France','06 90 84 95 98',NULL,'martinique@web2web.fr','https://web2web.fr/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Webcharte','1 rue Pierre Louis Hervé',NULL,97229,'Les Trois-Ilets','0696 11 17 59',NULL,'hello@webcharte.com','https://www.webcharte.com/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Webchuchote EURL','147 Bourg Nord du Precheur',NULL,97250,'Le Prêcheur','0696 24 31 26',NULL,NULL,'https://www.webchuchote.com/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Webplus Multimédia',NULL,NULL,97200,'Fort-de-france','0696 32 64 63','0974 53 37 24','contact@webplusm.net','https://www.webplusm.net/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Whaaat','Route de la jambette',NULL,97200,'Fort-de-France','0696 34 37 71',NULL,'hello@whaaat.studio','https://whaaat.studio/','Marketing');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Wiwaks','Quartier Morne Carette','Allée du Jasmin',97224,'Ducos','0696 11 17 31','0696 81 07 16','contact@wiwaks.com','https://www.wiwax.fr/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('WMS Production','Epinay Bas',NULL,97228,'Sainte Luce','0696 40 14 05',NULL,'contact@wmsproduction.eu','https://www.wmsproduction.fr/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('WSI (We Simplify Internet)','11 rue des Arts et Métiers','Dillon Stade',97200,'Fort-de-France','0696 29 40 58','0696 45 49 30','contact@wsidom.fr','https://www.wsidom.fr/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Xperience Web','12 rue des Arts & Métiers',NULL,97200,'Fort-de-France','0696 82 90 07',NULL,'support@xperienceweb.fr','https://www.xperienceweb.fr/','Web');
+INSERT INTO agences-martinique(NOM,ADDRESS,ADRESS2,CPO,CITY,PHONE1,PHONE2,EMAIL,URL,TYPE) VALUES ('Power Digital Media','35 Rrue Gaston DEFERRE',NULL,97200,'Fort-de-France','0696 53 24 91',NULL,'zhourlazragu@powerdigitalmedia.fr','https://powerdigitalmedia.fr/','Marketing');
