@@ -108,6 +108,18 @@
     "TYPE": "Marketing"
   },
   {
+    "NOM": "BI Soft lab",
+    "ADDRESS": "1 route de la folie",
+    "ADRESS2": "",
+    "CPO": 97200,
+    "CITY": "Fort-de-France",
+    "PHONE1": "05 96 97 22 69",
+    "PHONE2": "",
+    "EMAIL": "contact@bisoftlab.com",
+    "URL": "https://www.bisoftlab.com",
+    "TYPE": "Web"
+  },
+  {
     "NOM": "BPM-AD",
     "ADDRESS": "12 Rue des Arts et Métiers",
     "ADRESS2": "Centre d'affaire Bebooster",
@@ -153,6 +165,18 @@
     "PHONE2": "",
     "EMAIL": "contact@comwebsolutions.com",
     "URL": "https://comwebsolutions.com/",
+    "TYPE": "Web"
+  },
+  {
+    "NOM": "Creativ3",
+    "ADDRESS": "21, Immeuble Les Flamboyants",
+    "ADRESS2": "Z.I. La Lézarde",
+    "CPO": 97232,
+    "CITY": "Le Lamentin",
+    "PHONE1": "0596 53 86 74",
+    "PHONE2": "",
+    "EMAIL": "mondesir.jc@creativ3.fr",
+    "URL": "https://www.creativ3.fr/",
     "TYPE": "Web"
   },
   {
@@ -228,9 +252,9 @@
     "TYPE": "Web"
   },
   {
-    "NOM": "havas c'direct",
+    "NOM": "Havas c'direct",
     "ADDRESS": "Immeuble Frégate",
-    "ADRESS2": "ZI Manhity",
+    "ADRESS2": "Z.I Manhity",
     "CPO": 97232,
     "CITY": "Le Lamentin",
     "PHONE1": "0596 50 85 60",
@@ -266,7 +290,7 @@
   {
     "NOM": "La Cellule Digitale",
     "ADDRESS": "Immeuble Frégate",
-    "ADRESS2": "ZI Manhity",
+    "ADRESS2": "Z.I Manhity",
     "CPO": 97232,
     "CITY": "Le Lamentin",
     "PHONE1": "0596 50 85 60",
@@ -372,6 +396,18 @@
     "TYPE": "Web"
   },
   {
+    "NOM": "Power Digital Media",
+    "ADDRESS": "35 Rrue Gaston DEFERRE",
+    "ADRESS2": "",
+    "CPO": 97200,
+    "CITY": "Fort-de-France",
+    "PHONE1": "0696 53 24 91",
+    "PHONE2": "",
+    "EMAIL": "zhourlazragu@powerdigitalmedia.fr",
+    "URL": "https://powerdigitalmedia.fr/",
+    "TYPE": "Marketing"
+  },
+  {
     "NOM": "Smart Agency & CO",
     "ADDRESS": "7 Av. George Pompidou",
     "ADRESS2": "",
@@ -406,6 +442,18 @@
     "EMAIL": "contact@soluneconcept.fr",
     "URL": "https://www.soluneconcept.fr/",
     "TYPE": "Web"
+  },
+  {
+    "NOM": "SMSAgency.fwi",
+    "ADDRESS": "Lotissement Génipa",
+    "ADRESS2": "",
+    "CPO": 97224,
+    "CITY": "Ducos",
+    "PHONE1": "0696 06 47 69",
+    "PHONE2": "",
+    "EMAIL": "",
+    "URL": "https://www.instagram.com/smsagency.fwi/",
+    "TYPE": "Marketing"
   },
   {
     "NOM": "Virginis Technologies",
@@ -480,6 +528,18 @@
     "TYPE": "Marketing"
   },
   {
+    "NOM": "With-You",
+    "ADDRESS": "Route de Palmiste",
+    "ADRESS2": "",
+    "CPO": 97232,
+    "CITY": "Le Lamentin",
+    "PHONE1": "",
+    "PHONE2": "",
+    "EMAIL": "contact@with-you.be",
+    "URL": "http://with-you.be/",
+    "TYPE": "Marketing"
+  },
+  {
     "NOM": "Wiwaks",
     "ADDRESS": "Quartier Morne Carette",
     "ADRESS2": "Allée du Jasmin",
@@ -526,17 +586,5 @@
     "EMAIL": "support@xperienceweb.fr",
     "URL": "https://www.xperienceweb.fr/",
     "TYPE": "Web"
-  },
-  {
-    "NOM": "Power Digital Media",
-    "ADDRESS": "35 Rrue Gaston DEFERRE",
-    "ADRESS2": "",
-    "CPO": 97200,
-    "CITY": "Fort-de-France",
-    "PHONE1": "0696 53 24 91",
-    "PHONE2": "",
-    "EMAIL": "zhourlazragu@powerdigitalmedia.fr",
-    "URL": "https://powerdigitalmedia.fr/",
-    "TYPE": "Marketing"
   }
 ]

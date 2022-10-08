@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <root>
   <row>
     <NOM>2gether Martinique</NOM>
@@ -14,10 +14,10 @@
   </row>
   <row>
     <NOM>&lt;ED/&gt;</NOM>
-    <ADDRESS>Rte de Fond d&#x27;Orange</ADDRESS>
+    <ADDRESS>Rte de Fond d&apos;Orange</ADDRESS>
     <ADRESS2></ADRESS2>
     <CPO>97224</CPO>
-    <CITY>Ducos</CITY>
+    <CITY>Ducos </CITY>
     <PHONE1>0696 94 91 69</PHONE1>
     <PHONE2></PHONE2>
     <EMAIL>contact@enjoydigital.fr</EMAIL>
@@ -109,9 +109,21 @@
     <TYPE>Marketing</TYPE>
   </row>
   <row>
+    <NOM>BI Soft lab</NOM>
+    <ADDRESS>1 route de la folie</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-France</CITY>
+    <PHONE1>05 96 97 22 69</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@bisoftlab.com</EMAIL>
+    <URL>https://www.bisoftlab.com</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
     <NOM>BPM-AD</NOM>
     <ADDRESS>12 Rue des Arts et Métiers</ADDRESS>
-    <ADRESS2>Centre d&#x27;affaire Bebooster</ADRESS2>
+    <ADRESS2>Centre d&apos;affaire Bebooster</ADRESS2>
     <CPO>97200</CPO>
     <CITY>Fort-de-France</CITY>
     <PHONE1>0696 98 19 97</PHONE1>
@@ -133,7 +145,7 @@
     <TYPE>Web</TYPE>
   </row>
   <row>
-    <NOM>COM J&#x27;M</NOM>
+    <NOM>COM J&apos;M</NOM>
     <ADDRESS>1 rue des Lataniers</ADDRESS>
     <ADRESS2></ADRESS2>
     <CPO>97224</CPO>
@@ -154,6 +166,18 @@
     <PHONE2></PHONE2>
     <EMAIL>contact@comwebsolutions.com</EMAIL>
     <URL>https://comwebsolutions.com/</URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Creativ3</NOM>
+    <ADDRESS>21, Immeuble Les Flamboyants</ADDRESS>
+    <ADRESS2>Z.I. La Lézarde</ADRESS2>
+    <CPO>97232</CPO>
+    <CITY>Le Lamentin</CITY>
+    <PHONE1>0596 53 86 74</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>mondesir.jc@creativ3.fr</EMAIL>
+    <URL>https://www.creativ3.fr/</URL>
     <TYPE>Web</TYPE>
   </row>
   <row>
@@ -229,9 +253,9 @@
     <TYPE>Web</TYPE>
   </row>
   <row>
-    <NOM>havas c&#x27;direct</NOM>
+    <NOM>Havas c&apos;direct</NOM>
     <ADDRESS>Immeuble Frégate</ADDRESS>
-    <ADRESS2>ZI Manhity</ADRESS2>
+    <ADRESS2>Z.I Manhity</ADRESS2>
     <CPO>97232</CPO>
     <CITY>Le Lamentin</CITY>
     <PHONE1>0596 50 85 60</PHONE1>
@@ -254,7 +278,7 @@
   </row>
   <row>
     <NOM>Kaza Communication</NOM>
-    <ADDRESS>11 rue Révérend Père Pinchon</ADDRESS>
+    <ADDRESS>11 rue Révérend Père Pinchon  </ADDRESS>
     <ADRESS2></ADRESS2>
     <CPO>97200</CPO>
     <CITY>Fort-de-France</CITY>
@@ -267,7 +291,7 @@
   <row>
     <NOM>La Cellule Digitale</NOM>
     <ADDRESS>Immeuble Frégate</ADDRESS>
-    <ADRESS2>ZI Manhity</ADRESS2>
+    <ADRESS2>Z.I Manhity</ADRESS2>
     <CPO>97232</CPO>
     <CITY>Le Lamentin</CITY>
     <PHONE1>0596 50 85 60</PHONE1>
@@ -277,8 +301,8 @@
     <TYPE>Web</TYPE>
   </row>
   <row>
-    <NOM>LFProd</NOM>
-    <ADDRESS>Rue de l&#x27;Alize</ADDRESS>
+    <NOM>LFProd </NOM>
+    <ADDRESS>Rue de l&apos;Alize</ADDRESS>
     <ADRESS2></ADRESS2>
     <CPO>97230</CPO>
     <CITY>Sainte-Marie</CITY>
@@ -337,7 +361,7 @@
     <TYPE>Marketing</TYPE>
   </row>
   <row>
-    <NOM>NASDY</NOM>
+    <NOM>NASDY </NOM>
     <ADDRESS>1 route de la folie</ADDRESS>
     <ADRESS2></ADRESS2>
     <CPO>97200</CPO>
@@ -350,7 +374,7 @@
   </row>
   <row>
     <NOM>Pil Media</NOM>
-    <ADDRESS>46 centre cial Place d&#x27;Armes</ADDRESS>
+    <ADDRESS>46 centre cial Place d&apos;Armes</ADDRESS>
     <ADRESS2></ADRESS2>
     <CPO>97232</CPO>
     <CITY>Le Lamentin</CITY>
@@ -371,6 +395,18 @@
     <EMAIL>contact@pixell.eu</EMAIL>
     <URL>https://www.pixell.eu/</URL>
     <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>Power Digital Media</NOM>
+    <ADDRESS>35 Rrue Gaston DEFERRE</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97200</CPO>
+    <CITY>Fort-de-France</CITY>
+    <PHONE1>0696 53 24 91</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>zhourlazragu@powerdigitalmedia.fr</EMAIL>
+    <URL>https://powerdigitalmedia.fr/</URL>
+    <TYPE>Marketing</TYPE>
   </row>
   <row>
     <NOM>Smart Agency &amp; CO</NOM>
@@ -407,6 +443,18 @@
     <EMAIL>contact@soluneconcept.fr</EMAIL>
     <URL>https://www.soluneconcept.fr/</URL>
     <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>SMSAgency.fwi</NOM>
+    <ADDRESS>Lotissement Génipa</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97224</CPO>
+    <CITY>Ducos</CITY>
+    <PHONE1>0696 06 47 69</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL></EMAIL>
+    <URL>https://www.instagram.com/smsagency.fwi/</URL>
+    <TYPE>Marketing</TYPE>
   </row>
   <row>
     <NOM>Virginis Technologies</NOM>
@@ -463,13 +511,13 @@
     <CPO>97200</CPO>
     <CITY>Fort-de-france</CITY>
     <PHONE1>0696 32 64 63</PHONE1>
-    <PHONE2>0974 53 37 24</PHONE2>
+    <PHONE2>0974 53 37 24 </PHONE2>
     <EMAIL>contact@webplusm.net</EMAIL>
     <URL>https://www.webplusm.net/</URL>
     <TYPE>Web</TYPE>
   </row>
   <row>
-    <NOM>Whaaat</NOM>
+    <NOM>Whaaat </NOM>
     <ADDRESS>Route de la jambette</ADDRESS>
     <ADRESS2></ADRESS2>
     <CPO>97200</CPO>
@@ -478,6 +526,18 @@
     <PHONE2></PHONE2>
     <EMAIL>hello@whaaat.studio</EMAIL>
     <URL>https://whaaat.studio/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>With-You</NOM>
+    <ADDRESS>Route de Palmiste</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97232</CPO>
+    <CITY>Le Lamentin</CITY>
+    <PHONE1></PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@with-you.be</EMAIL>
+    <URL>http://with-you.be/</URL>
     <TYPE>Marketing</TYPE>
   </row>
   <row>
@@ -527,17 +587,5 @@
     <EMAIL>support@xperienceweb.fr</EMAIL>
     <URL>https://www.xperienceweb.fr/</URL>
     <TYPE>Web</TYPE>
-  </row>
-  <row>
-    <NOM>Power Digital Media</NOM>
-    <ADDRESS>35 Rrue Gaston DEFERRE</ADDRESS>
-    <ADRESS2></ADRESS2>
-    <CPO>97200</CPO>
-    <CITY>Fort-de-France</CITY>
-    <PHONE1>0696 53 24 91</PHONE1>
-    <PHONE2></PHONE2>
-    <EMAIL>zhourlazragu@powerdigitalmedia.fr</EMAIL>
-    <URL>https://powerdigitalmedia.fr/</URL>
-    <TYPE>Marketing</TYPE>
   </row>
 </root>
