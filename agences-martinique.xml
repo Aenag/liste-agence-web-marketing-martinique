@@ -13,7 +13,7 @@
     <TYPE>Marketing</TYPE>
   </row>
   <row>
-    <NOM>&lt;ED/&gt;</NOM>
+    <NOM>ED</NOM>
     <ADDRESS>Rte de Fond d&apos;Orange</ADDRESS>
     <ADRESS2></ADRESS2>
     <CPO>97224</CPO>
@@ -262,6 +262,18 @@
     <PHONE2></PHONE2>
     <EMAIL></EMAIL>
     <URL>https://havascdirect.com/</URL>
+    <TYPE>Marketing</TYPE>
+  </row>
+  <row>
+    <NOM>Inovalone</NOM>
+    <ADDRESS>97 avenue Georges Gratiant</ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97232</CPO>
+    <CITY>Le Lamentin</CITY>
+    <PHONE1>0596 56 97 48</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>contact@inovalone.com</EMAIL>
+    <URL>https://www.inovalone.com/</URL>
     <TYPE>Marketing</TYPE>
   </row>
   <row>

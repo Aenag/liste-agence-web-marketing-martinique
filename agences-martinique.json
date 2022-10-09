@@ -12,7 +12,7 @@
     "TYPE": "Marketing"
   },
   {
-    "NOM": "<ED/>",
+    "NOM": "ED",
     "ADDRESS": "Rte de Fond d'Orange",
     "ADRESS2": "",
     "CPO": 97224,
@@ -261,6 +261,18 @@
     "PHONE2": "",
     "EMAIL": "",
     "URL": "https://havascdirect.com/",
+    "TYPE": "Marketing"
+  },
+  {
+    "NOM": "Inovalone",
+    "ADDRESS": "97 avenue Georges Gratiant",
+    "ADRESS2": "",
+    "CPO": 97232,
+    "CITY": "Le Lamentin",
+    "PHONE1": "0596 56 97 48",
+    "PHONE2": "",
+    "EMAIL": "contact@inovalone.com",
+    "URL": "https://www.inovalone.com/",
     "TYPE": "Marketing"
   },
   {
