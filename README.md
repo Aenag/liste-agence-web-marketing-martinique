@@ -17,8 +17,6 @@ Concernant le fichier SQL vous trouverez le script de création de la table SQL 
 [Créer la table SQL](create-table.sql)
 
 
-![img](https://jobboard.webmonster.tech/assets/images/webmonster/logo-dark.png)
-
 Visiter la communauté [Webmonster](https://discord.gg/maynphPgp2) sur Discord.
 
 
