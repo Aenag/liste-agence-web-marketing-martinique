@@ -313,7 +313,7 @@
     <TYPE>Web</TYPE>
   </row>
   <row>
-    <NOM>LFProd </NOM>
+    <NOM>LFProd</NOM>
     <ADDRESS>Rue de l&apos;Alize</ADDRESS>
     <ADRESS2></ADRESS2>
     <CPO>97230</CPO>
@@ -322,6 +322,18 @@
     <PHONE2></PHONE2>
     <EMAIL></EMAIL>
     <URL></URL>
+    <TYPE>Web</TYPE>
+  </row>
+  <row>
+    <NOM>M14</NOM>
+    <ADDRESS></ADDRESS>
+    <ADRESS2></ADRESS2>
+    <CPO>97232</CPO>
+    <CITY>Le Lamentin</CITY>
+    <PHONE1>0696 71 14 24</PHONE1>
+    <PHONE2></PHONE2>
+    <EMAIL>mattrac@m14digital.fr</EMAIL>
+    <URL>https://m14digital.fr/</URL>
     <TYPE>Web</TYPE>
   </row>
   <row>
